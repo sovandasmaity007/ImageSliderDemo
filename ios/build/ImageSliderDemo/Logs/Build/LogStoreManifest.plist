@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2A89B217-1F26-496B-AB41-A4DA61160B1F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A89B217-1F26-496B-AB41-A4DA61160B1F.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageSliderDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageSliderDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ImageSliderDemo with scheme ImageSliderDemo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>598089993.30790901</real>
+			<key>timeStoppedRecording</key>
+			<real>598089994.43200696</real>
+			<key>title</key>
+			<string>Building workspace ImageSliderDemo with scheme ImageSliderDemo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2A89B217-1F26-496B-AB41-A4DA61160B1F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

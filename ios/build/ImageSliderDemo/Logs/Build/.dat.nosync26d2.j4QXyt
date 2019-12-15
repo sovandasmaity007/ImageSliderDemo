@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>372A65FF-3B53-462D-A97D-D807B0517545</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>372A65FF-3B53-462D-A97D-D807B0517545.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageSliderDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageSliderDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ImageSliderDemo with scheme ImageSliderDemo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>598012566.27981305</real>
+			<key>timeStoppedRecording</key>
+			<real>598012567.46521401</real>
+			<key>title</key>
+			<string>Building workspace ImageSliderDemo with scheme ImageSliderDemo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>372A65FF-3B53-462D-A97D-D807B0517545</string>
+		</dict>
+		<key>BF103548-69C6-46EB-BF23-9E118CF40C95</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BF103548-69C6-46EB-BF23-9E118CF40C95.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageSliderDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageSliderDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ImageSliderDemo with scheme ImageSliderDemo and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>598014633.106336</real>
+			<key>timeStoppedRecording</key>
+			<real>598014635.96811199</real>
+			<key>title</key>
+			<string>Building workspace ImageSliderDemo with scheme ImageSliderDemo and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BF103548-69C6-46EB-BF23-9E118CF40C95</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
